@@ -64,3 +64,12 @@ Interpretation (high-level): on this dataset/configuration, **Otsu outperformed 
 ## Reproducibility tips
 - Keep preprocessing identical across methods (resize + grayscale conversion).
 - If your masks are encoded differently (not 0/255), adjust the binarization threshold.
+
+## 👤 Author
+
+**Soham Umbare**  
+IIIT Raichur  
+📧 cs23b1068@iiitr.ac.in
+
+---
+🧑‍💻 Happy Experimenting! 🔬
